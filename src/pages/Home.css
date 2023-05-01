@@ -1,0 +1,103 @@
+.styled-table {
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 0.8em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    max-width: 800px;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    color: white;
+}
+.styled-table thead tr {
+    background-color: rgb(85, 29, 43);
+    color: rgb(117, 52, 65);
+    text-align: left;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+}
+
+.styled-table th,
+.styled-table td {
+    padding: 12px 20px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid rgb(65, 20, 29);
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: navajowhite;
+    box-shadow: 0 0 20px lightgreen;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid lightsalmon;
+    box-shadow: 0 0 20px lightgreen;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
+
+.btn {
+    border: none;
+    color: whitesmoke;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 18px;
+    margin: 4px 2px;
+    cursor: pointer;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+}
+
+.btn-edit {
+    background-color: lightgreen;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
+
+.btn-delete {
+    background-color: rgb(175, 77, 77);
+    box-shadow: 0 0 20px rgb(100, 32, 4);
+    box-sizing: content-box;
+
+}
+
+.btn-view {
+    background-color: lightcoral;
+    color: black;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
+
+.dropdown {
+    width: 20%;
+    margin: 5px;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
+
+.btn-reset {
+    background-color: darkgoldenrod;
+    color: black;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+
+}
+
+.btn-active {
+    background-color: darkkhaki;
+    color: black;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
+
+.btn-inactive {
+    background-color: darkcyan;
+    color: black;
+    box-shadow: 0 0 20px rgb(204, 74, 23);
+    box-sizing: content-box;
+}
