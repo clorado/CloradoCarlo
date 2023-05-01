@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CloradoCarlo/static/css/main.fd46955a.css",
+    "main.js": "/CloradoCarlo/static/js/main.b9ac406d.js",
+    "static/js/787.190b4c12.chunk.js": "/CloradoCarlo/static/js/787.190b4c12.chunk.js",
+    "static/media/3KpM.gif": "/CloradoCarlo/static/media/3KpM.0f24fbdb69745c6dc0c4.gif",
+    "index.html": "/CloradoCarlo/index.html",
+    "main.fd46955a.css.map": "/CloradoCarlo/static/css/main.fd46955a.css.map",
+    "main.b9ac406d.js.map": "/CloradoCarlo/static/js/main.b9ac406d.js.map",
+    "787.190b4c12.chunk.js.map": "/CloradoCarlo/static/js/787.190b4c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd46955a.css",
+    "static/js/main.b9ac406d.js"
+  ]
+}
